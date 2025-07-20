@@ -47,7 +47,7 @@ sauce-demo-tests/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/sauce-labs-demo-tests.git
+git clone https://github.com/Shweta93J/new/tree/main/sauce-demo-tests.git
 cd sauce-labs-demo-tests
 
 ### 2. Install Dependencies
